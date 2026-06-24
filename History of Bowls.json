@@ -1,8 +1,8 @@
 [
 {
   
-  "content": " <dialog id="hist-pop1">
-         <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px;">
+  "content": 
+        " <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px;">
             <h2 style="color:var(--grass); font-family:'Times New Roman', Times, serif; font-size:1.5rem; margin:0; border:none; padding:0;">The Heritage of Lawn Bowls</h2>
             <button onclick="document.getElementById('hist-pop1').close()" style="background:#eee; border:none; padding:5px 10px; border-radius:5px; cursor:pointer; font-weight:bold; color:#333;">Close</button>
          </div>
@@ -66,7 +66,7 @@
                <li><strong>Singles:</strong> Head-to-head match play where each competitor delivers four bowls alternately.</li>
                <li><strong>Pairs:</strong> Two teams of two players, alternating four bowls per player.</li>
                <li><strong>Triples:</strong> Teams of three players, using three bowls each.</li>
-               <li><strong>Rinks (Fours):</strong> The classic four-player team layout, where each player delivers two bowls. Each squad is directed by a <strong>"Skip"</strong>—the team captain who stands at the target end to analyze the head, chart tactics, and deliver the critical final bowls of the end.</li>
+               <li><strong>Rinks (Fours):</strong> The classic four-player team layout, where each player delivers two bowls. Each squad is directed by a <strong>"Skip"</strong>—the team captain who stands at the target end to analyze the head, chart tactics, and deliver the critical final bowls of the end"</li>
             </ul>
          </div>
       </dialog>"
