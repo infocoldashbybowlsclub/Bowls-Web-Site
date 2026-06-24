@@ -1,13 +1,4 @@
-<dialog id="hist-pop1">
-         <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px;">
-            <h2 style="color:var(--grass); font-family:'Times New Roman', Times, serif; font-size:1.5rem; margin:0; border:none; padding:0;">The Heritage of Lawn Bowls</h2>
-            <button onclick="document.getElementById('hist-pop1').close()" style="background:#eee; border:none; padding:5px 10px; border-radius:5px; cursor:pointer; font-weight:bold; color:#333;">Close</button>
-         </div>
-         <div class="scroll-box prose" style="font-size:0.95rem; line-height:1.6;">
-            
-            <!-- Styled Article Header: Removes background clash and handles image cleanly -->
-            <div style="text-align: center; margin-bottom: 2rem; border-bottom: 3px double var(--border-color); padding-bottom: 1.5rem;">
-               <img src="https://live.staticflickr.com/65535/53987151447_7f5a647d79_n.jpg" alt="Vintage lawn bowls match" style="max-height: 220px; object-fit: cover; width: 100%; border-radius: 15px; margin: 0 auto 1rem auto; display: block;"/>
+
                <h3 style="font-family: 'Times New Roman', Times, serif; font-size: 2.25rem; color: var(--text-dark); margin: 0 0 0.25rem 0; line-height: 1.2;">The History of Lawn Bowls</h3>
                <p style="color: #555; font-style: italic; margin: 0; font-size: 1.05rem;">From Royal Bans to the Modern Green</p>
             </div>
