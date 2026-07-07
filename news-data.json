@@ -1,14 +1,13 @@
 [
-{
+
+  {
     "id": "2026-07-01-match",
     "title": "Cold Ashby V Rothwell Manor",
     "date": "July 1st, 2026",
     "opponent": "Rothwell Manor",
     "venue": "Home",
     "result": "Win",
-    "content1": "What a difference a few months makes. After the disappointment of the reverse fixture earlier in the season which fell victim to the unpredictable British weather and had to be cancelled, we were determined to make amends.",
-    "content2": "This time, the weather gods smiled upon us, and we took full advantage. The performance was controlled and clinical, with our rinks working in perfect harmony.",
-    "content3": "A well-deserved victory that shows the resilience and quality of the team."
+    "content": "What a difference a few months makes. After the disappointment of the reverse fixture earlier in the season which fell victim to the unpredictable British weather and had to be cancelled, we were determined to make amends. This time, the weather gods smiled upon us, and we took full advantage. The performance was controlled and clinical, with our rinks working in perfect harmony. A well-deserved victory that shows the resilience and quality of the team."
   },
   {
     "id": "2026-06-20-match",
@@ -17,9 +16,7 @@
     "opponent": "Carlsberg",
     "venue": "Away",
     "result": "Win",
-    "content1": "Cold Ashby Secure Solid Away Win in Historical Northampton Clash.",
-    "content2": "Cold Ashby Bowls Club braved the pre-match elements to secure a convincing 46-35 shot victory against Carlsberg.",
-    "content3": "The away performance demonstrated strength and consistency against a competitive opponent."
+    "content": "Cold Ashby Secure Solid Away Win in Historical Northampton Clash.\n\nCold Ashby Bowls Club braved the pre-match elements to secure a convincing 46-35 shot victory against Carlsberg."
   },
   {
     "id": "2026-06-18-match",
@@ -28,9 +25,7 @@
     "opponent": "West Haddon",
     "venue": "Away",
     "result": "Win",
-    "content1": "On Thursday we travelled the short distance to play at West Haddon.",
-    "content2": "On a lovely summer evening all players enjoyed the match. Cold Ashby were in control for all the match.",
-    "content3": "Winning by a comfortable margin, this was a dominant display."
+    "content": "On Thursday we travelled the short distance to play at West Haddon. On a lovely summer evening all players enjoyed the match. Cold Ashby were in control for all the match, winning by a comfortable margin."
   },
   {
     "id": "2026-06-13-match",
@@ -39,9 +34,7 @@
     "opponent": "South Kilworth",
     "venue": "Away",
     "result": "Win",
-    "content1": "Cold Ashby made the short six-mile trip to near-neighbours South Kilworth this weekend, returning home with a convincing and hard-fought victory.",
-    "content2": "It was a dominant performance from start to finish, with all our rinks contributing to the success.",
-    "content3": "A local derby victory shows Cold Ashby's quality against our closest rivals."
+    "content": "Cold Ashby made the short six-mile trip to near-neighbours South Kilworth this weekend, returning home with a convincing and hard-fought victory. It was a dominant performance from start to finish, with all our rinks contributing to the success."
   },
   {
     "id": "2026-06-09-match",
@@ -50,9 +43,7 @@
     "opponent": "Desborough",
     "venue": "Away",
     "result": "Loss",
-    "content1": "Final Score: Desborough 71 – 47 Cold Ashby",
-    "content2": "It was a challenging afternoon on the road for Cold Ashby, as the visitors struggled to come to terms with some very difficult playing conditions.",
-    "content3": "The opposition proved too strong on the day, but valuable lessons were learned."
+    "content": "Final Score: Desborough 71 – 47 Cold Ashby\n\nIt was a challenging afternoon on the road for Cold Ashby, as the visitors struggled to come to terms with some very difficult playing conditions."
   },
   {
     "id": "2026-06-06-match",
@@ -61,7 +52,7 @@
     "opponent": "Geddington",
     "venue": "Home",
     "result": "Cancelled",
-    "content1": "Unfortunately this match was called off due to the weather."
+    "content": "Unfortunately this match was called off due to the weather."
   },
   {
     "id": "2026-06-03-match",
@@ -70,7 +61,7 @@
     "opponent": "Rothwell Manor",
     "venue": "Away",
     "result": "Cancelled",
-    "content1": "Unfortunately this match was called off due to the weather."
+    "content": "Unfortunately this match was called off due to the weather."
   },
   {
     "id": "2026-05-30-match",
@@ -79,17 +70,13 @@
     "opponent": "Bugbrooke",
     "venue": "Away",
     "result": "Loss",
-    "content1": "Cold Ashby endured a tough afternoon on the road, facing not only a strong opponent but also punishingly hot and sultry conditions.",
-    "content2": "The elements played a major factor in the contest, making it difficult for our players to perform at their best.",
-    "content3": "Despite the challenging circumstances, the team showed determination and fought hard throughout."
+    "content": "Cold Ashby endured a tough afternoon on the road, facing not only a strong opponent but also punishingly hot and sultry conditions.\n\nThe elements played a major factor in the contest, with conditions proving difficult for all players on the day."
   },
   {
     "id": "2026-05-23-event",
     "title": "Club Competitions & BBQ",
     "date": "Saturday 23rd/24th May, 2026",
-    "content1": "Our scheduled opponents unfortunately had to cancel as they were unable to field a team.",
-    "content2": "However, the blank Saturday did not go to waste. The afternoon was instead used to host our club competitions, providing excellent practice and engagement.",
-    "content3": "The BBQ that followed made for a great social gathering for all members."
+    "content": "Our scheduled opponents unfortunately had to cancel as they were unable to field a team.\n\nHowever, the blank Saturday did not go to waste. The afternoon was instead used to host our club competitions."
   },
   {
     "id": "2026-05-20-match",
@@ -98,9 +85,7 @@
     "opponent": "Rugby Railway",
     "venue": "Home",
     "result": "Loss",
-    "content1": "On a bitterly cold evening, Cold Ashby entertained one of the strongest teams in the area.",
-    "content2": "Despite the drop in temperature, the home side put up a gallant fight from the opening end.",
-    "content3": "Rugby Railway proved their quality, but Cold Ashby showed character in a hard-fought contest."
+    "content": "On a bitterly cold evening, Cold Ashby entertained one of the strongest teams in the area. Despite the drop in temperature, the home side put up a gallant fight from the opening end."
   },
   {
     "id": "2026-05-17-match",
@@ -109,9 +94,7 @@
     "opponent": "Whyte Melville",
     "venue": "Away",
     "result": "Loss",
-    "content1": "Cold Ashby traveled to Fernie Fields on Sunday—the home of Whyte Melville Bowls Club—for a closely contested match.",
-    "content2": "Despite a forecast threatening rain, the weather held out all day, allowing for a full game.",
-    "content3": "Although we fell short, the match was competitive and showcased some excellent bowling from both sides."
+    "content": "Cold Ashby traveled to Fernie Fields on Sunday—the home of Whyte Melville Bowls Club—for a closely contested match. Despite a forecast threatening rain, the weather held out all day."
   },
   {
     "id": "2026-05-09-match",
@@ -119,9 +102,7 @@
     "date": "May 9th, 2026",
     "opponent": "Harpole",
     "venue": "Away",
-    "content1": "Cold Ashby traveled to Harpole on Saturday for a closely contested encounter.",
-    "content2": "While the final scoreline suggests a relatively tight margin of 16 shots, the narrative of the match was more complex.",
-    "content3": "Our players demonstrated skill and determination throughout the match."
+    "content": "Cold Ashby traveled to Harpole on Saturday for a closely contested encounter. While the final scoreline suggests a relatively tight margin of 16 shots, the narrative of the match was more complex."
   },
   {
     "id": "2026-05-07-match",
@@ -130,9 +111,7 @@
     "opponent": "North Kilworth",
     "venue": "Away",
     "result": "Loss",
-    "content1": "In a challenging away fixture, Cold Ashby fell short against a disciplined North Kilworth side.",
-    "content2": "Final Score: North Kilworth 90 – 70 Cold Ashby",
-    "content3": "Match Conditions: The heavy rain made for difficult playing conditions, but both teams battled through to complete the fixture."
+    "content": "In a challenging away fixture, Cold Ashby fell short against a disciplined North Kilworth side.\n\nFinal Score: North Kilworth 90 – 70 Cold Ashby\n\nMatch Conditions: The heavy rain made for difficult playing conditions."
   },
   {
     "id": "2026-05-02-match",
@@ -141,9 +120,7 @@
     "opponent": "Daventry",
     "venue": "Home",
     "result": "Win",
-    "content1": "That is a fantastic turnaround! Winning by 9 shots overall (84 to 75) shows a real team effort.",
-    "content2": "A huge shout-out to Chris H, Harry, and Damo for leading the charge as the winning rinks stepped up when it mattered.",
-    "content3": "This victory demonstrates Cold Ashby's growing strength and cohesion as a team."
+    "content": "That is a fantastic turnaround! Winning by 9 shots overall (84 to 75) shows a real team effort. A huge shout-out to Chris H, Harry, and Damo for leading the charge as the winning rinks delivered when it mattered."
   },
   {
     "id": "2026-04-30-match",
@@ -152,17 +129,13 @@
     "opponent": "L.V.A.",
     "venue": "Home",
     "result": "Loss",
-    "content1": "Under a cloudless sky, Cold Ashby entertained L.V.A. in what proved to be a highly competitive afternoon.",
-    "content2": "The home team ultimately lost narrowly by 56 shots to 51.",
-    "content3": "The standout performance from individual rinks showed promise for the season ahead."
+    "content": "Under a cloudless sky, Cold Ashby entertained L.V.A. in what proved to be a highly competitive afternoon. The home team ultimately lost narrowly by 56 shots to 51.\n\nThe standout performance came from our key players who showed great skill."
   },
   {
     "id": "2026-04-25-event",
     "title": "Club Competition Report: The Triples Cup",
     "date": "April 25th, 2026",
-    "content1": "Overview: The season kicked off in spectacular fashion this past Saturday as the club hosted its first official competition of the year: The Triples Cup.",
-    "content2": "Players were treated to ideal conditions, with the green in perfect order and the weather cooperative.",
-    "content3": "The competition provided excellent bowling and camaraderie among all participants."
+    "content": "Overview\n\nThe season kicked off in spectacular fashion this past Saturday as the club hosted its first official competition of the year: The Triples Cup. Players were treated to ideal conditions, with the green in perfect order and the weather cooperative."
   },
   {
     "id": "2026-04-17-match",
@@ -171,20 +144,18 @@
     "opponent": "Fleckney", 
     "venue": "Home",
     "result": "Loss",
-    "content1": "Cold Ashby hosted Fleckney on April 18th for the highly anticipated opening match of the 2026 season on a fine but cool afternoon.",
-    "content2": "The green was in absolutely excellent condition for the season's opener, testament to the grounds team's hard work.",
-    "content3": "Although the result didn't go our way, the performance was encouraging and set a positive tone for the season."
+    "content": "Cold Ashby hosted Fleckney on April 18th for the highly anticipated opening match of the 2026 season on a fine but cool afternoon.\n\nThe green was in absolutely excellent condition for the season's opener, testament to the grounds team's hard work."
   },
   {
     "id": "2026-04-11-event",
     "title": "Meet and Greet",
     "date": "April 11th, 2026",
-    "content1": "Members of Cold Ashby Bowls Club held their pre-season get together on April 11th 2026. There was an excellent turnout, with lots of interest shown from potential new members."
+    "content": "Members of Cold Ashby Bowls Club held their pre-season get together on April 11th 2026. There was an excellent turnout, with lots of interest shown from potential new members."
   },
   {
     "id": "2026-03-15-event",
     "title": "Green Maintenance",
     "date": "March 15th, 2026",
-    "content1": "A huge thanks to Roger Miller and the grounds team for their tireless work over the winter. The green is looking fantastic and ready for a busy 2026 season."
+    "content": "A huge thanks to Roger Miller and the grounds team for their tireless work over the winter. The green is looking fantastic and ready for a busy 2026 season."
   }
 ]
