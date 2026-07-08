@@ -11,7 +11,7 @@ The home side were on top from the very start and kept the pressure firmly on th
 
 The top performing rink of the day went to the powerhouse team of **Pedro, Bob, Guy, and Graham**.
 
-
+---
 
 ## Carlsberg v Cold Ashby
 **Date:** Saturday, June 20th
