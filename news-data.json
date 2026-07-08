@@ -25,8 +25,8 @@
       "Cold Ashby Secure Solid Away Win in Historical Northampton Clash",
       "Cold Ashby Bowls Club braved the pre-match elements to secure a convincing 46-35 shot victory against Carlsberg, played at one of the town's most historic bowling venues.",
       "Despite an unsettling pre-match downpour that threatened to slick the green, the weather cleared just in time for the opening ends and remained dry and clear throughout the contest.",
-      "Cold Ashby found their rhythm early on the historic surface, establishing control across the rinks and maintaining a steady lead for the majority of the match. Carlsberg put up a spirited fight",
-      "The standout performance of the day came from the trio of Gerry, Ollie, and Michael, who claimed the honour of highest winning rink with an excellent display of draw bowling that kept the pressure on"
+      "Cold Ashby found their rhythm early on the historic surface, establishing control across the rinks and maintaining a steady lead for the majority of the match. Carlsberg put up a spirited fight.",
+      "The standout performance of the day came from the trio of Gerry, Ollie, and Michael, who claimed the honour of highest winning rink with an excellent display of draw bowling."
     ]
   },
   {
@@ -36,10 +36,11 @@
     "opponent": "West Haddon",
     "venue": "Away",
     "result": "Win",
-  "reportParagraph1": ["On Thursday we travelled the short distance to play at West Haddon. On a lovely summer evening all players enjoyed the match. Cold Ashby were in control for the entire match, winning on three out of the four rinks.", 
-   "reportParagraph2": "The final match score was Cold Ashby 75 West Haddon 52. For a change the winning rink was not skipped by Roger Miller. It was Damian Pidgeon with fellow team members Guy and Dean."
-  ]
-    },
+    "content": [
+      "On Thursday we travelled the short distance to play at West Haddon. On a lovely summer evening all players enjoyed the match. Cold Ashby were in control for the entire match.",
+      "The final match score was Cold Ashby 75 West Haddon 52. For a change the winning rink was not skipped by Roger Miller. It was Damian Pidgeon with fellow team members Guy and Dean."
+    ]
+  },
   {
     "id": "2026-06-13-match",
     "title": "Local Derby Delight as Cold Ashby Dominate South Kilworth",
@@ -103,8 +104,8 @@
     "title": "Club Competitions & BBQ",
     "date": "Saturday 23rd/24th May, 2026",
     "content": [
-      "Sunday 24th May - Club 4s Competition: The scorching weather continued into Sunday for the highly anticipated Club 4s competition. The day featured a stark contrast between the runaway hea[...]",
-      "Saturday 23rd May - Club Competitions & BBQ: Our scheduled opponents unfortunately had to cancel as they were unable to field a team. However, the blank Saturday did not go to waste. The a[...]"
+      "Sunday 24th May - Club 4s Competition: The scorching weather continued into Sunday for the highly anticipated Club 4s competition. The day featured a stark contrast between the runaway heat.",
+      "Saturday 23rd May - Club Competitions & BBQ: Our scheduled opponents unfortunately had to cancel as they were unable to field a team. However, the blank Saturday did not go to waste."
     ]
   },
   {
@@ -184,7 +185,7 @@
     "date": "April 25th, 2026",
     "content": [
       "Overview",
-      "The season kicked off in spectacular fashion as the club hosted its first official competition of the year: The Triples Cup. Players were treated to ideal conditions and enthusiastic suppo[...]"
+      "The season kicked off in spectacular fashion as the club hosted its first official competition of the year: The Triples Cup. Players were treated to ideal conditions and enthusiastic support."
     ]
   },
   {
