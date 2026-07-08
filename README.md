@@ -13,7 +13,6 @@ The top performing rink of the day went to the powerhouse team of **Pedro, Bob, 
 
 
 
-
 ## Carlsberg v Cold Ashby
 **Date:** Saturday, June 20th
 
