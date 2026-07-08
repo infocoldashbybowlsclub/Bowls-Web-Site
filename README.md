@@ -1,5 +1,19 @@
 # Cold Ashby Bowls Club - Match Reports
 
+---
+
+## Cold Ashby V Daventry
+**Date:** Saturday, July 4th, 2026
+
+Cold Ashby welcomed Daventry for the return fixture, looking to build on their previous away victory earlier in the season. 
+
+The home side were on top from the very start and kept the pressure firmly on the visitors throughout the contest. Cold Ashby put on a dominant display to win on three out of the four rinks, finishing with a final score of 61 shots to 42. With this fantastic performance, the club successfully completed the double over Daventry for the 2026 season.
+
+The top performing rink of the day went to the powerhouse team of **Pedro, Bob, Guy, and Graham**.
+
+
+
+
 ## Carlsberg v Cold Ashby
 **Date:** Saturday, June 20th
 
