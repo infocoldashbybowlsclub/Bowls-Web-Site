@@ -2,6 +2,16 @@
 
 ---
 
+## Geddington V Cold Ashby
+**Date:** Thursday, July 9h, 2026
+The earlier match against Geddington was cancelled due to the wet weather.
+
+Unfortunately this match was cancelled due to the extreme temperature, 34 degrees
+
+---
+
+---
+
 ## Cold Ashby V Daventry
 **Date:** Saturday, July 4th, 2026
 
