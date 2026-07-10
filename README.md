@@ -10,8 +10,6 @@ Unfortunately this match was cancelled due to the extreme temperature, 34 degree
 
 ---
 
----
-
 ## Cold Ashby V Daventry
 **Date:** Saturday, July 4th, 2026
 
