@@ -2,6 +2,15 @@
 
 ---
 
+## Cold Ashby V St. Crispians
+**Date:** Saturday, July 11th, 2026
+
+The famous Cold Ashby breeze was very welcome today, helping to keep the temperature down and keeping the match highly playable on a warm summer afternoon.
+
+Unfortunately, a strong St. Crispians side proved too powerful for the home team on this occasion, with the visitors taking the overall victory by 94 shots to 54. Despite the tough result on the cards, the home crowd still had plenty to cheer about. The standout highlight of the day was a fantastic performance by our single winning rink, beautifully bowled by **Tina, Arthur, and Rick**.
+
+---
+
 ## Geddington V Cold Ashby
 **Date:** Thursday, July 9th, 2026
 The earlier match against Geddington was cancelled due to the wet weather.
