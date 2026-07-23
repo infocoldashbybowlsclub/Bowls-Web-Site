@@ -2,6 +2,24 @@
 
 ---
 
+## Cold Ashby V Bugbrooke
+**Date:** Saturday, July 18th, 2026
+
+Cold Ashby hosted Bugbrooke for what proved to be a challenging home fixture against a very strong visiting side. 
+
+Despite putting up a strong resistance across the rinks, the home team couldn't quite contain Bugbrooke's scoring power. The visitors ultimately claimed the victory with a final score of **Cold Ashby 58, Bugbrooke 84**.
+
+---
+
+## Cold Ashby V Heyford
+**Date:** Thursday, July 16th, 2026
+
+Cold Ashby hosted Heyford for an exceptionally tight encounter that kept everyone on the edge of their seats right down to the final ends. 
+
+The home side dug deep in a very close match to finally pull ahead and claim a well-earned victory, closing out the contest by 70 shots to 60. The standout highlight for Cold Ashby was the brilliant performance of the winning rink, skipped by **Arthur, guest player Chris Stevens, and Rick**.
+
+---
+
 ## Cold Ashby V St. Crispians
 **Date:** Saturday, July 11th, 2026
 
