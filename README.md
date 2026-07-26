@@ -2,6 +2,15 @@
 
 ---
 
+## Cold Ashby V Rugby Police
+**Date:** Wednesday, July 23rd, 2026
+
+Cold Ashby welcomed Rugby Police for a competitive evening fixture. 
+
+The visitors started strongly and maintained a firm grip on the contest throughout the match. Despite a hard-fought effort from the home side to stay within striking distance, Rugby Police held on to take the win with a final score of **Cold Ashby 39, Rugby Police 44**.
+
+---
+
 ## Cold Ashby V Bugbrooke
 **Date:** Saturday, July 18th, 2026
 
