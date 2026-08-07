@@ -2,6 +2,16 @@
 
 ---
 
+## Cold Ashby V Carlsberg
+**Date:** Saturday July 25th 2026
+**Cold Ashby lost to Carlsberg by 44 shots to 65**
+
+Winning Rink was Leslie,Harry and Gerry
+
+---
+
+---
+
 ## Cold Ashby V Rugby Police
 **Date:** Wednesday, July 23rd, 2026
 
