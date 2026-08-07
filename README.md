@@ -2,6 +2,26 @@
 
 ---
 
+## Cold Ashby V Cogenhoe
+**Date:** Saturday August 1st 2026
+**Cold Ashby Won by 64 shots to 57**
+
+Winning Rink was Bob,Pedro and Roger
+
+---
+
+---
+
+## Cold Ashby V Harpole
+**Date:** Thursday July 30th 2026
+**Cold Ashby lost to Harpole by 54 shots to 76**
+
+Winning Rink was Dean,Stuart and Roger
+
+---
+
+---
+
 ## Cold Ashby V Carlsberg
 **Date:** Saturday July 25th 2026
 **Cold Ashby lost to Carlsberg by 44 shots to 65**
