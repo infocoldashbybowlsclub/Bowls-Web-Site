@@ -1,6 +1,15 @@
 # Cold Ashby Bowls Club - Match Reports
 
 ---
+##Cold Ashby V Fleckney##
+**Date:** Saturday August 8th
+
+**Cold Ashby lost by 78 shots to 61**
+Winning Rink was Bob,Gareth and Rick
+
+---
+
+---
 
 ## Cold Ashby V Cogenhoe
 **Date:** Saturday August 1st 2026
