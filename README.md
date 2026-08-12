@@ -5,6 +5,7 @@
 **Date:** Saturday August 8th
 
 **Cold Ashby lost by 78 shots to 61**
+
 Winning Rink was Bob,Gareth and Rick
 
 ---
