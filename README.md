@@ -1,6 +1,17 @@
 # Cold Ashby Bowls Club - Match Reports
 
 ---
+## Cold Asby V Rugby Railway ##
+
+**Date** Wenesday August 12th
+
+**Cold Asby lost by %8 shots to 44**
+
+Winning Rink was Dave Courage, Arthur and Rick
+
+---
+
+---
 ## Cold Ashby V Fleckney ##
 **Date:** Saturday August 8th
 
