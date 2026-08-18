@@ -1,7 +1,6 @@
 # Cold Ashby Bowls Club - Match Reports
 
 ---
-
 ## Cold Ashby V Rugby Railway 
 
 ### Date Wenesday August 12th
