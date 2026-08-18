@@ -5,7 +5,7 @@
 
 **Date** Wenesday August 12th
 
-**Cold Ashby lost by 58 shots to 44**
+__Cold Ashby lost by 58 shots to 44__
 
 Winning Rink was Dave Courage, Arthur and Rick
 
