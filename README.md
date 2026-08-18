@@ -3,7 +3,7 @@
 ---
 ## Cold Ashby V Rugby Railway 
 
-**Date** Wenesday August 12th
+ __Date__ Wenesday August 12th
 
 __Cold Ashby lost by 58 shots to 44__
 
