@@ -12,7 +12,7 @@ Date: Wenesday August 12th
 ---
 
 ---
-### Cold Ashby V Fleckney 
+ Cold Ashby V Fleckney 
 **Date:** Saturday August 8th
 
  Cold Ashby lost by 78 shots to 61
