@@ -15,7 +15,7 @@ Winning Rink was Dave Courage, Arthur and Rick
 ### Cold Ashby V Fleckney 
 **Date:** Saturday August 8th
 
-###Cold Ashby lost by 78 shots to 61**
+### Cold Ashby lost by 78 shots to 61
 
 Winning Rink was Bob,Gareth and Rick
 
