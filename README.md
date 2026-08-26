@@ -7,7 +7,7 @@
 
 ### Cold Ashby lost by 58 shots to 44
 
-### Winning Rink was Dave Courage, Arthur and Rick
+ Winning Rink was Dave Courage, Arthur and Rick
 
 ---
 
