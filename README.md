@@ -2,10 +2,10 @@
 
 ---
 
-## Cold Ashby V Rugby Railway 
+### H3 Cold Ashby V Rugby Railway 
 **Date** Wenesday August 12th
 
-#### Cold Ashby lost by 58 shots to 44
+### H3 Cold Ashby lost by 58 shots to 44
 
 Winning Rink was Dave Courage, Arthur and Rick
 
