@@ -1,7 +1,7 @@
 # Cold Ashby Bowls Club - Match Reports
 
 ---
-Cold Ashby V Rugby Railway 
+## Cold Ashby V Rugby Railway 
 Date: Wenesday August 12th
 
  Cold Ashby lost by 58 shots to 44
@@ -11,7 +11,7 @@ Date: Wenesday August 12th
 ---
 
 ---
- Cold Ashby V Fleckney 
+ ## Cold Ashby V Fleckney 
 **Date:** Saturday August 8th
 
  Cold Ashby lost by 78 shots to 61
